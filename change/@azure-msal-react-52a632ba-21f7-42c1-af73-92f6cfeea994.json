@@ -1,0 +1,7 @@
+{
+  "type": "patch",
+  "comment": "Updated react packages and peerDependencies",
+  "packageName": "@azure/msal-react",
+  "email": "arjen@bloemium.com",
+  "dependentChangeType": "patch"
+}
