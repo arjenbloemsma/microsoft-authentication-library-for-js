@@ -1,5 +1,5 @@
 {
-    "name": "microsoft-authentication-libraries-for-js",
+    "name": "@arjenbloemsma/microsoft-authentication-libraries-for-js",
     "private": true,
     "devDependencies": {
         "@angular/compiler": "^15.2.4",
@@ -27,7 +27,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/AzureAD/microsoft-authentication-library-for-js.git"
+        "url": "https://github.com/arjenbloemsma/microsoft-authentication-library-for-js/tree/dev"
     },
     "scripts": {
         "audit": "npm audit --workspace=lib/** --workspace=extensions/** --include-workspace-root",
