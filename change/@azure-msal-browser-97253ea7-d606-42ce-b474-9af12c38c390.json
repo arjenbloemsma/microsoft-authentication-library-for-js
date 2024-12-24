@@ -1,0 +1,7 @@
+{
+  "type": "minor",
+  "comment": "Updated react packages and peerDependencies",
+  "packageName": "@azure/msal-browser",
+  "email": "arjen@bloemium.com",
+  "dependentChangeType": "patch"
+}
